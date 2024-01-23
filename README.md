@@ -1,1 +1,1 @@
-# XJTU DS experience of automation.
+# XJTU Data-structure experiment of automation.
